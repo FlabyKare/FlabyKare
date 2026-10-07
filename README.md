@@ -17,11 +17,11 @@ Senior Frontend Developer (Vue 2/3 | Nuxt 2/3)
 
 📞 Номер: 89298845825
 
-📧 Email - vuesentinel@gmail.com
+📧 Email - nikita20sent@gmail.com
 
-💬 Телеграм - https://t.me/VueSentinel | @VueSentinel
+💬 Телеграм - https://t.me/fiutil | @fiutil
 
-🔗 WhatsApp - https://api.whatsapp.com/send?phone=79298845825
+🔗 WhatsApp - https://api.whatsapp.com/send?phone=79298845844
 
 Технологии
 ---------------------------------------------------
